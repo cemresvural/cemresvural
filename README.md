@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cemresvural" alt="cemresvural" /></a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemresvural&show_icons=true&theme=dark&locale=en&layout=compact" alt="cemresvural" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemresvural&theme=dark" alt="cemresvural" /></p>
 <div  align="center"> <img src="https://github.com/cemresvural/cemresvural/blob/output/github-contribution-grid-snake.svg" /></div>
