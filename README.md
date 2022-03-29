@@ -1,4 +1,4 @@
-### Merhaba ,ben Cemre👋
+### Hello,I am Cemre👋
 ### 📫 How to reach me: cemresvural@gmail.com
 ### 🌱 I’m currently learning JavaScript,React*,Flutter*
 
