@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello,I am Cemre👋. I am a computer engineer from Turkey.
+### Привет! Меня зовут Джемре.Я инженер.Я живу в Турции.
+### 📫 How to reach me: cemresvural@gmail.com
 
-<!--
-**cemresvural/cemresvural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemresvural&show_icons=true&theme=dark&locale=en&layout=compact" alt="cemresvural" /></p>
+
+
+
+
+![snake gif](https://github.com/cemresvural/cemresvural/blob/output/github-contribution-grid-snake-dark.svg)
