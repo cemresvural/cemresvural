@@ -1,5 +1,5 @@
 ### Hello,I am Cemre👋. I am a computer engineer from Turkey.
-### Привет! Меня зовут Джемре.Я инженер.Я живу в Турции.
+
 ### 📫 How to reach me: cemresvural@gmail.com
 
 
